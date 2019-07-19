@@ -15,3 +15,7 @@
 
 3. GIPHY API
 
+4. Javascript
+
+5. JQuery
+
